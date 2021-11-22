@@ -1,0 +1,16 @@
+Funskionet/EnkriptimiAES.java
+ Funskionet.EnkriptimiAES
+model/Message.java
+ model.Message
+com/example/androidsocketfiletransferserver/MainActivity.java
+ com.example.androidsocketfiletransferserver.MainActivity
+ com.example.androidsocketfiletransferserver.MainActivity$1
+ com.example.androidsocketfiletransferserver.MainActivity$2
+ com.example.androidsocketfiletransferserver.MainActivity$ServerSocketThread
+ com.example.androidsocketfiletransferserver.MainActivity$ServerSocketThread$1
+com/example/androidsocketfiletransferserver/BuildConfig.java
+ com.example.androidsocketfiletransferserver.BuildConfig
+Funskionet/Deflate.java
+ Funskionet.Deflate
+model/MessagesListAdapter.java
+ model.MessagesListAdapter
